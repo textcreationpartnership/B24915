@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Hadgi Giafer Aga, embassador from the divan of Algier, to His Most Christian Majesty at Versailes together with the French king's answer to the said embassador.</title>
+            <author>Ja'far Aghā, hāji, fl. 1684.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24915</idno><idno type="EEBO-CITATION">31355786</idno>
+  <idno type="VID">205884</idno>
+  <idno type="EEBO-PROQUEST">2240891316</idno>
+  
+            <idno type="STC">Wing J121</idno>
+            <idno type="OCLC">31355786</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Hadgi Giafer Aga, embassador from the divan of Algier, to His Most Christian Majesty at Versailes together with the French king's answer to the said embassador.</title>
+                  <author>Ja'far Aghā, hāji, fl. 1684.</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. for Richard Mead,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Algeria --  Foreign relations --  France.</term>
+               <term type="geographic_name">France --  Foreign relations --  Algeria.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205884:1"/>
+            <head>THE SPEECH OF Hadgi Giafer Aga EMBASSADOR FROM THE <hi>Divan of Algier</hi> TO HIS MOST Christian MAJESTY AT VERSAILES.</head>
+            <head type="sub">Together with the FRENCH KINGS Answer to the said EMBASSADOR.</head>
+            <opener>
+               <dateline>
+                  <date>July the 4th. <hi>S. N.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>HADGI GIAFER AGA</hi> Embassador from the <hi>Divan</hi> of <hi>Algier</hi> had his Audience of the most Christian King, being conducted thereto by the Sieur <hi>Bonneuil Introducer</hi> of Embassadors, with the Coaches of the King and Madam the <hi>Dauphiness;</hi> He was brought from the Hall of Embassadors to the Apartment of <hi>Monsieur Colbert de Croissy,</hi> Minister and Secretary of <hi>State,</hi> then to that of the Marquis <hi>de Seignelai</hi> Secretary of <hi>State,</hi> then to that of the Count <hi>Tholose</hi> Admiral of <hi>France,</hi> and afterwards to that of the King where the whole Court was Assem<g ref="char:EOLhyphen"/>bled, where he made to his <hi>Majesty</hi> the following Speech in the Name of the City of <hi>Algier,</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <p>MOST High, most Excellent, most Potent, most Magnanimous and most Invincible Prince <hi>Lewis</hi> the <hi>XIV.</hi> Emperor of the <hi>French;</hi> May God perpetuate thy <hi>Reign</hi> and thy <hi>Prosperity; I</hi> come to the Foot of thy sublime, Imperial Throne, to express the <hi>Joy</hi> of our <hi>Republick,</hi> and of the <hi>Dey</hi> my Master; for having concluded a <hi>Peace</hi> with thy <hi>Lieutenants,</hi> and their ard<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt Desire, That it would please Thy High Majesty to put to it the <hi>last Seal</hi> of Thy Consent; the <hi>Force</hi> of thy most <hi>Puissant Arms,</hi> and the <hi>bright<g ref="char:EOLhyphen"/>ness</hi> of Thy ever-Conquering Sword, hath made them know how great the Fault of <hi>Baba Hassan</hi> was, in presuming to declare <hi>War</hi> against Thy Sub<g ref="char:EOLhyphen"/>jects; and I am Deputed to ask Thee Pardon for it, and to Protest to Thee, That we will for the future have no other Design than to merit by our Con<g ref="char:EOLhyphen"/>duct the <hi>Friendship</hi> of the greatest <hi>Emperor</hi> that is, or ever hath been, of the <hi>Faith of Jesus,</hi> and the only one which we dread; we might fear, That the
+<pb facs="tcp:205884:2"/> Detestable <hi>Out-rage</hi> committed upon the <hi>Person</hi> of Thy <hi>Consul,</hi> should be an Obstacle to the <hi>Peace;</hi> if Thy Soul, the Eyes whereof, like the Sun, penetrate all things, did not fully apprehend, what a Rabble is capable of, when enraged, at the beholding their <hi>Fellow-Citizens</hi> dasht in pieces by <hi>Bombs,</hi> amongst whom were their Fathers, their Brothers and their Children; and seeing them<g ref="char:EOLhyphen"/>selves rob'd of their Slaves, the most valuable Part of their Riches; besides all which to add to their Misfortune, the Liberty of their Country-men, by way of Exchange, which they yet justly hoped for, was refused them; But what<g ref="char:EOLhyphen"/>soever Influence this Violence may have upon Thee, I come to pray Thee for ever to turn away Thy Sacred Eyes from beholding an Action, which all the Honest Men amongst us, especially the Governours, abhorr'd; so that it would not be reasonable to impute it to them.</p>
+                        <p>We hope, Oh Great <hi>Emperor!</hi> who art as <hi>Puissant</hi> as <hi>Gemchid,</hi> as rich as <hi>Caroun,</hi> as magnificent as <hi>Solomon,</hi> and as generous as <hi>Hatemtai,</hi> That we shall obtain this <hi>Favour</hi> from Thy <hi>Goodness,</hi> and the High Opinion which we have of Thy incomparable Generosity, causes us to make no doubt, but Thou wilt give Liberty to all those of our Brethren, who are detained in Thy Fetters, as we give full Liberty to all those of Thy Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cts, who are in our hands, and even to all those who are honoured by the shadow of thy Name, to the end, that the <hi>Joy</hi> of this Country may be equal and universal. And in this what do we ask, but to set open a greater number of Mouths to Thy Praise, and that at the sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> time, when Thy Subjects being returned to their own Country, shall bless thee, lying prostrate before thy Feet, ours also may spread themselves through the vast Country of <hi>Africa,</hi> and there Publish thy Magnifiscence, and plant a profound Veneration for Thy incomparable Vertues in the Hearts of their Children? This will lay the Foundation of an eternal Peace which we will keep on our part by the exact and Religious Observation of all the conditions upon which it is grounded, not in the least doubting, but that by reason of the per<g ref="char:EOLhyphen"/>fect Obedience, which thou causest to be rendred to Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, Thy Subjects will take the same Care to Preserve it also: May the Almighty and most Merciful Creator vouchsafe to give his Blessing to it, and to keep a perpetual Union between the most High, most Excellent, most Puissant, most Magnanimous and most Invincible <hi>Emperor</hi> of the <hi>French;</hi> and the Illustrious and Magnificent <hi>Dey, Pacha, Divan,</hi> and victorious Army of the <hi>Republick</hi> of the <hi>Alge<g ref="char:EOLhyphen"/>rines.</hi> By his most humble Servant <hi>Hadgi Giafer Aga,</hi> Embassador of <hi>Al<g ref="char:EOLhyphen"/>gier,</hi> wish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng the <hi>Prosperity</hi> of his Majesty.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>After this he presented to the King his Credential Letter which was in a bag Embroidered with Gold, and he complemented his Majesty up<g ref="char:EOLhyphen"/>on the occasion of the taking of</hi> Luxemburgh.</p>
+            <p>
+               <hi>Then the King told him, that he granted to the</hi> Divan <hi>of</hi> Algier <hi>the pardon which it had asked, that he approved of the Treaty concluded with the</hi> Chevalier Tourvile; <hi>that he hoped the</hi> Algerines <hi>would do all that was necessary on their part for the keeping of the peace; and that he would command his Subjects to disturb them no more.</hi>
+            </p>
+            <p>
+               <hi>Afterwards the Embassador was magnificently treated by his</hi> Mejesties <hi>Officers, and brought back with the same Ceremonies to</hi> Paris, <hi>being every where accompanied by the</hi> Sieur de Bussieur <hi>Gentleman in Ordi<g ref="char:EOLhyphen"/>nary of the Kings House.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> T. B. <hi>for</hi> Richard Mead. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
